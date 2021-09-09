@@ -1,0 +1,10 @@
+E:\visual\Lenguaje 3\Programacion3\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+E:\visual\Lenguaje 3\Programacion3\Ejercicio1\bin\Debug\Ejercicio1.exe
+E:\visual\Lenguaje 3\Programacion3\Ejercicio1\bin\Debug\Ejercicio1.pdb
+E:\visual\Lenguaje 3\Programacion3\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+E:\visual\Lenguaje 3\Programacion3\Ejercicio1\obj\Debug\Ejercicio1.Funciones.resources
+E:\visual\Lenguaje 3\Programacion3\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+E:\visual\Lenguaje 3\Programacion3\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+E:\visual\Lenguaje 3\Programacion3\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+E:\visual\Lenguaje 3\Programacion3\Ejercicio1\obj\Debug\Ejercicio1.exe
+E:\visual\Lenguaje 3\Programacion3\Ejercicio1\obj\Debug\Ejercicio1.pdb
